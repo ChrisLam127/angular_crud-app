@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI1",
+      "name": "Christian Lambo",
+      "company": "Lambo Digital",
+      "email": "christianlambo26@gmail.com",
+      "title": "Forntend Developer",
+      "mobile": "0817439255",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBudYOgApxyKdCiOitPW_M3ExiWxNp-JBuVQ&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "D6BNdWnHI2",
+      "name": "Bokang Lambo",
+      "company": "Lambo Digital",
+      "email": "christianlambo26@gmail.com",
+      "title": "Forntend Developer",
+      "mobile": "0817439255",
+      "photo": "https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-512.png",
+      "groupId": "5"
+    },
+    {
+      "id": "D6BNdWnHI3",
+      "name": "Gabriel Lambo",
+      "company": "Lambo Digital",
+      "email": "christianlambo26@gmail.com",
+      "title": "Forntend Developer",
+      "mobile": "0817439255",
+      "photo": "https://truesun.in/wp-content/uploads/2021/08/62681-flat-icons-face-computer-design-avatar-icon.png",
+      "groupId": "4"
+    },
+    {
+      "id": "D6BNdWnHI4",
+      "name": "Ezekiel Lambo",
+      "company": "Lambo Digital",
+      "email": "christianlambo26@gmail.com",
+      "title": "Forntend Developer",
+      "mobile": "0817439255",
+      "photo": "https://www.transparentpng.com/thumb/flight-attendant/flight-attendant-user-icons-png-6.png",
+      "groupId": "6"
+    },
+    {
+      "id": "D6BNdWnHI6",
+      "name": "Kamgang ",
+      "company": "Lambo Digital",
+      "email": "christianlambo26@gmail.com",
+      "title": "Forntend Developer",
+      "mobile": "0817439255",
+      "photo": "https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "groupId": "2"
+    },
+    {
+      "name": "Christian",
+      "mobile": 817439255,
+      "photo": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "email": "christianlambo26@gmail.com",
+      "company": "Lambo Digital",
+      "title": "Frontend Developer",
+      "groupId": "1",
+      "id": "gSjIg82"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
